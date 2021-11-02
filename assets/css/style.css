@@ -1,18 +1,21 @@
 .l1{
-    text-align: center;
-    font-size: 100px;
-    font-family: 'Montserrat Alternates', sans-serif;
+   text-align: center;
+   font-size: 100px;
+   font-family: 'Montserrat Alternates', sans-serif;
 }
 .l2{
-    margin-left: 1100px;
-    font-size: 60px;
-    font-family: 'Montserrat Alternates', sans-serif;
+   margin-left: 1100px;
+   font-size: 60px;
+   font-family: 'Montserrat Alternates', sans-serif;
 }
 .l3{
-    color: red;
-    font-size: 25px;
-    font-weight: 30px;
+   color: red;
+   font-size: 25px;
+   font-weight: 30px;
 }
 .l4{
-    border-left:4px solid rgb(0, 64, 255);
+   border-left:4px solid rgb(0, 64, 255);
+}
+.l4:hover{
+   border-left: 5px solid rgb(0, 255, 0);
 }
